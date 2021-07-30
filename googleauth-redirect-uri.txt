@@ -1,0 +1,7 @@
+https://accounts.google.com/o/oauth2/v2/auth?
+ response_type=code&
+ client_id=644408839831-00b0crm2af8o30hr55diqm36lfd0sv36.apps.googleusercontent.com&
+ scope=openid%20email&
+ redirect_uri=http://localhost:3000/api/login
+ &prompt=select_account
+ 
